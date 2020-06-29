@@ -1,4 +1,4 @@
-baseURL = "https://gunnarvoet.github.io/trails"
+baseURL = "https://gunnarvoet.github.io/trails/"
 title = "Hiking"
 theme = "etch"
 languageCode = "en-US"
