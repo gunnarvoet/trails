@@ -11,9 +11,9 @@ A late start after 4pm resulted in hot temperatures during the ascent that gave 
 
 {{< figure src="/trails/img/IMG_20200627_165148.jpg" caption="Oakzanita Peak" >}}
 
-{{< figure src="/trails/img/IMG_20200627_165417.jpg" caption="Looking soutward on the way up" >}}
+{{< figure src="/trails/img/IMG_20200627_165417.jpg" caption="Looking southward on the way up" >}}
 
-{{< figure src="/trails/img/IMG_20200627_173931.jpg" caption="Looking soutward with Oakzanita Peak to the left" >}}
+{{< figure src="/trails/img/IMG_20200627_173931.jpg" caption="Looking southward with Oakzanita Peak to the left" >}}
 
 {{< figure src="/trails/img/IMG_20200627_175252.jpg" caption="Summer meadows, looking north-east" >}}
 
