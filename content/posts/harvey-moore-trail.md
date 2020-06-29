@@ -4,10 +4,10 @@ date: 2020-06-27
 draft: false
 ---
 
-Beautiful hike through the eastern parts of Cuyamaca State Park. The trailhead is located at the Sweetwater parking lot along CA79.
+A beautiful hike through the eastern parts of Cuyamaca State Park. The trailhead is located at the Sweetwater parking lot along CA79.
 
 A late start after 4pm resulted in hot temperatures during the ascent that gave way to beautiful mid-summer evening conditions and a seemingly never ending sunset. Some of the meadows were still in bloom. This hike does not climb any peaks but might just have the best views of all trails in the area. 
-<iframe src="/trails/maps/map.html" width="100%" height="300" frameborder="0" name="iframe" onload="resizeIframe(this)" scrolling="no"></iframe>
+<iframe src="/trails/maps/map.html" width="100%" height="400" frameborder="0" name="iframe" onload="resizeIframe(this)" scrolling="no"></iframe>
 
 {{< figure src="/trails/img/IMG_20200627_165148.jpg" caption="Oakzanita Peak" >}}
 
