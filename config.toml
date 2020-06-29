@@ -9,7 +9,7 @@ pygmentsUseClasses = true
 [params]
   description = "Hiking Log Book"
   copyright = "Copyright © 2020 Gunnar Voet"
-  dark = "auto"
+  dark = "off"
   highlight = true
 
 [menu]
