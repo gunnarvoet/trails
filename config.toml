@@ -1,4 +1,4 @@
-# baseURL = "https://example.com"
+baseURL = "https://gunnarvoet.github.io/trails"
 title = "Hiking"
 theme = "etch"
 languageCode = "en-US"
