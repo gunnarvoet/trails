@@ -7,8 +7,9 @@ script:
   - hugo
 
 deploy:
-  - provider: script
-    script: bash deploy.sh
+  - provider: pages
     skip_cleanup: true
+    github_token: $github_token
+    local_dir: public
     on:
-      branch: gh-pages # or master if you are using the two-repository approach
+      branch: master # or master if you are using the two-repository approach
