@@ -1,5 +1,5 @@
 baseURL = "https://gunnarvoet.github.io/trails/"
-title = "Hiking"
+title = "Trails"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
