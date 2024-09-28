@@ -7,8 +7,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "Hiking Log Book"
-  copyright = "Copyright © 2020 Gunnar Voet"
+  description = "Hiking Log"
+  copyright = "Copyright © 2024 Gunnar Voet"
   dark = "off"
   highlight = true
 

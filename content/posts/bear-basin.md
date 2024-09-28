@@ -8,7 +8,6 @@ Five days mostly off-trail in the High Sierras. Starting from Pine Creek trailhe
 
 <iframe src="/trails/maps/bear-basin.html" width="100%" height="400" frameborder="0" name="iframe" onload="resizeIframe(this)" scrolling="no"></iframe>
 
-{{< figure src="/trails/img/bear-basin/fro.jpg" caption="Looking north towards Caltech Peak and the little pass over to Lake South America" >}}
 {{< figure src="/trails/img/bear-basin/img000.jpg" caption="Looking up north-west from Pine Lake" >}}
 {{< figure src="/trails/img/bear-basin/img001.jpg" caption="Upper Pine Lake" >}}
 {{< figure src="/trails/img/bear-basin/img002.jpg" caption="Granite Park" >}}
